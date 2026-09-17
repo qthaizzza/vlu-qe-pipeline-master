@@ -9,6 +9,7 @@ function login(username, password) {
         return true;
     }
 
+    // Các trường hợp đăng nhập không hợp lệ
     return false;
 }
 
